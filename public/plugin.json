@@ -1,0 +1,22 @@
+{
+  "main": "index.html",
+  "preload": "preload/services.js",
+  "logo": "logo.png",
+  "development": {
+    "main": "http://localhost:5173"
+  },
+  "features": [
+    {
+      "code": "typewriter",
+      "explain": "将剪贴板内容逐字输入到光标位置",
+      "cmds": [
+        "打字机",
+        "逐字输入",
+        {
+          "type": "over",
+          "label": "疯狂打字机"
+        }
+      ]
+    }
+  ]
+}
