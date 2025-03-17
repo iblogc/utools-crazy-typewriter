@@ -8,7 +8,7 @@
   "features": [
     {
       "code": "typewriter",
-      "explain": "将剪贴板内容逐字输入到光标位置",
+      "explain": "直接在 uTools 搜索框中输入以下文字/任意文字均可匹配插件",
       "cmds": [
         "打字机",
         "逐字输入",
