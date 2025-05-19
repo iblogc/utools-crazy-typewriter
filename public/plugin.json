@@ -14,7 +14,9 @@
         "逐字输入",
         {
           "type": "over",
-          "label": "疯狂打字机"
+          "label": "疯狂打字机",
+          "minLength": 1,
+          "maxLength": 99999999
         }
       ]
     }
