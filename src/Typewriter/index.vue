@@ -71,13 +71,14 @@
             <h4>更多使用场景</h4>
             <ul>
               <li>在任何不允许粘贴的输入框中输入文本</li>
-              <li>模拟人工输入，避免被反爬虫机制拦截</li>
               <li>在一些特殊的在线编辑器中输入内容</li>
             </ul>
           </div>
         </div>
       </div>
     </div>
+    <!-- 版权信息 -->
+    <div class="copyright">© 2025 Crazy Typewriter. Made with ❤️ by 二进制跳杀</div>
   </div>
 </template>
 
@@ -429,5 +430,13 @@ button:disabled {
 
 .content::-webkit-scrollbar-thumb:hover {
   background: #a0aec0;
+}
+
+.copyright {
+  text-align: center;
+  color: #666;
+  font-size: 12px;
+  padding: 4px 0;
+  user-select: none;
 }
 </style> 
